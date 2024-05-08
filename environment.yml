@@ -1,7 +1,7 @@
 name: rain
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - brotli=1.1.0=h0dc2134_1
   - brotli-bin=1.1.0=h0dc2134_1
