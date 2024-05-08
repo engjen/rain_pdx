@@ -7,7 +7,7 @@ dependencies:
   - brotli-bin=1.1.0=h0dc2134_1
   - bzip2=1.0.8=h6c40b1e_6
   - ca-certificates=2024.3.11=hecd8cb5_0
-  - certifi=2024.2.2=pyhd8ed1ab_0
+  - certifi=2024.2.2=py311hecd8cb5_0
   - contourpy=1.2.1=py311h1d816ee_0
   - cycler=0.12.1=pyhd8ed1ab_0
   - fonttools=4.51.0=py311he705e18_0
